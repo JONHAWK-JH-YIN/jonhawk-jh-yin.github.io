@@ -1,5 +1,5 @@
 /* ============================================
-   Menglin Liu Academic Portfolio — main.js
+   Junhe (Jonhawk) Yin Academic Portfolio — main.js
    Scroll reveal, mobile nav, header behaviour
    ============================================ */
 
